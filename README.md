@@ -12,6 +12,6 @@ You can exit at any time by using the logout button.
 
 ![Result2](https://user-images.githubusercontent.com/76444340/230725929-5821aeb7-3c04-4b62-9494-56a2eb5a7afb.png)
 
-![Result3](https://user-images.githubusercontent.com/76444340/230726073-fbb60a6b-0990-42b1-9c20-fab83d8ee5ed.png)
+![Result3](https://user-images.githubusercontent.com/76444340/230726135-38d005a3-12d0-4e5c-886a-727a4a70ecf5.png)
 
 ![Result4](https://user-images.githubusercontent.com/76444340/230726075-9b756ba8-f9d5-4330-9fe1-1afe88e684e3.png)
